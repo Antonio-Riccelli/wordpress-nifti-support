@@ -26,6 +26,7 @@ Attempt at building a WordPress plugin to allow upload and display of images in 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Papaya](https://rii-mango.github.io/Papaya/)
 
 ## License
 
