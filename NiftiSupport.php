@@ -6,7 +6,7 @@
  * Version: 0.1
  * Author: Antonio Riccelli
  * Author URI: https://antonioriccelli.com
- * License: GPL2
+ * License: GPL3
  * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
  */
 
