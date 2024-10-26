@@ -14,6 +14,8 @@
 <!-- ABOUT -->
 ## About
 
+__WORK IN PROGRESS__
+
 Attempt at building a WordPress plugin to allow upload and display of images in [NIfTI](https://en.wikipedia.org/wiki/Neuroimaging_Informatics_Technology_Initiative) format.
 
 <!-- TECHNOLOGIES -->
