@@ -2,7 +2,7 @@
 /*
  * Plugin Name: NIfTI Support
  * Plugin URI: https://github.com/antonio-riccelli/wordpress-nifti-support
- * Description: NIfTI support for Wordpress: allows to upload NIfTI (*.nii) files in the media library and add them to a post. The display is done using the Papaya Viewer (<a href="https://rii-mango.github.io/Papaya">Papaya</a>).
+ * Description: NIfTI support for Wordpress: allows to upload NIfTI (*.nii & *.nii.gz) files in the media library and add them to a post. The display is done using the Papaya Viewer (<a href="https://rii-mango.github.io/Papaya">Papaya</a>).
  * Version: 0.1
  * Author: Antonio Riccelli
  * Author URI: https://antonioriccelli.com
