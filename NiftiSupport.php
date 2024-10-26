@@ -7,7 +7,7 @@
  * Author: Antonio Riccelli
  * Author URI: https://antonioriccelli.com
  * License: GPL2
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
  */
 
  function create_block_nifti_block_init() {
